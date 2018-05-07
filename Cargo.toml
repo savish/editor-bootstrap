@@ -1,0 +1,9 @@
+[package]
+name = "bootstrap"
+version = "0.1.0"
+authors = ["Alan K <afksavish@gmail.com>"]
+description = "Populate a folder with editor specific settings"
+readme = "README.md"
+categories = ["command-line-utilities", "development-tools", "text-editors"]
+
+[dependencies]
